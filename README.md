@@ -4,6 +4,9 @@ pcaps for testing, especially pcaps containing flawed packets.
 ## Version Testing
 This version includes selective tag push testing for open source releases.
 
+### Release v1.1.0
+Added comprehensive open source release process validation.
+
 To get started after cloning the repo, do this:
 
 ````
