@@ -7,6 +7,12 @@ This version includes selective tag push testing for open source releases.
 ## Final Release Test
 Testing complete workflow: private tag -> public selective push (v1.2.0)
 
+## New Features in v2.0.0
+- Enhanced packet crafting engine
+- Improved error handling
+- Better IPv6 support
+- Performance optimizations
+
 ### Release v1.1.0
 Added comprehensive open source release process validation.
 
