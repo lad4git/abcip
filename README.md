@@ -4,6 +4,9 @@ pcaps for testing, especially pcaps containing flawed packets.
 ## Version Testing
 This version includes selective tag push testing for open source releases.
 
+## Final Release Test
+Testing complete workflow: private tag -> public selective push (v1.2.0)
+
 ### Release v1.1.0
 Added comprehensive open source release process validation.
 
