@@ -1,6 +1,9 @@
 abcip is a simple packet crafting tool.  It is intended to be easy to generate
 pcaps for testing, especially pcaps containing flawed packets.
 
+## Version Testing
+This version includes selective tag push testing for open source releases.
+
 To get started after cloning the repo, do this:
 
 ````
