@@ -13,6 +13,10 @@ Testing complete workflow: private tag -> public selective push (v1.2.0)
 - Better IPv6 support
 - Performance optimizations
 
+## Release Notes
+- v2.0.0: Major release with performance improvements and new features
+- Ready for production deployment
+
 ### Release v1.1.0
 Added comprehensive open source release process validation.
 
